@@ -110,7 +110,7 @@ Typeahead and faceted search box results
 -----------------------------------------
 
 .. figure:: images/typeahead.*
-   :align: right
+   :align: left
    :figwidth: 40%
    :width: 100%
    :alt: Example of the typeahead in the search box
